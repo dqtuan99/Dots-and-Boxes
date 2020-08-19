@@ -1,12 +1,12 @@
 # Dots and Boxes
 
-Fullname: Đỗ Quang Tuấn
-StudentId: 17021102
-Class: K62IE1 lớp số 7
-Project's name: Dots and Boxes
-File size: 3.31Mb
+Fullname: Đỗ Quang Tuấn.
+StudentId: 17021102.
+Class: K62IE1 lớp số 7.
+Project's name: Dots and Boxes.
+File size: 3.31Mb.
 
-A small C/C++ GUI game using SFML library
+A small C/C++ GUI game using SFML library.
 
 - Rules:
   + The board contains 5 x 6 dots, two players take turns to join two adjacent dots with a horizontal or vertical line. If a player completes the fourth side of a box they initial that box and must draw another line.
